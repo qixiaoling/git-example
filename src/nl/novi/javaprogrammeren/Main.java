@@ -7,6 +7,8 @@ public class Main {
 
         Person p = new Person("Sjaak");
 
+
         System.out.println(p.getName());
+        System.out.println("Welcome! "+p.getName());
     }
 }
